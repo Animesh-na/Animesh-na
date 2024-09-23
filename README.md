@@ -5,7 +5,7 @@ I'm a **Senior Software Engineer** passionate about building scalable, reliable 
 ## 🚀 Skills and Technologies
 
 - **Languages**: Python, Go, PHP
-- **Frameworks**: Django, Flask, MVC Architectures
+- **Frameworks**: Django, Laravel, MVC Architectures
 - **DevOps & Deployment**: Docker, Jenkins, CI/CD, AWS (EC2, RDS, S3, EKS, ECR)
 - **Databases**: PostgreSQL, MySQL
 - **Message Brokers**: RabbitMQ
