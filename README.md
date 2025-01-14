@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)][github]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCaliber_X&logo=leetcode&logoColor=yellow)][leetcode]
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAnimesh-na&logo=leetcode&logoColor=yellow)][leetcode]
 
 
 I'm a **Senior Software Engineer** passionate about building scalable, reliable software solutions. With expertise in **Python**, **Go**, and **PostgreSQL**, I enjoy working on challenging projects that involve real-time data processing, geospatial analysis, and cloud infrastructure.
