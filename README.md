@@ -1,6 +1,6 @@
 [github]: https://github.com/Animesh-na
 [linkedin]: https://www.linkedin.com/in/animesh-nama/
-[leetcode]: https://leetcode.com/Animesh-na/
+[leetcode]: https://leetcode.com/u/Animesh_nama/
 
 # 👋 Hello, I'm Animesh Nama!
 
